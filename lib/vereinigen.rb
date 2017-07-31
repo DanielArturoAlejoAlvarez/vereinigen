@@ -1,5 +1,5 @@
 require "vereinigen/version"
+require "vereinigen/builder"
 
 module Vereinigen
-  # Your code goes here...
 end
