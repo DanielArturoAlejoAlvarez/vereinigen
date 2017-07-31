@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["yourmediasoft@gmail.com"]
 
   spec.summary       = %q{Gem Vereinigen created in Ruby, to generate friendly Urls.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/DanielArturoAlejoAlvarez/vereinigen"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
